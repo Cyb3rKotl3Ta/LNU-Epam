@@ -1,0 +1,13 @@
+D:\CaRoLiN-C#\Epam-2.1\bin\Debug\netcoreapp3.1\Epam-2.1.exe
+D:\CaRoLiN-C#\Epam-2.1\bin\Debug\netcoreapp3.1\Epam-2.1.deps.json
+D:\CaRoLiN-C#\Epam-2.1\bin\Debug\netcoreapp3.1\Epam-2.1.runtimeconfig.json
+D:\CaRoLiN-C#\Epam-2.1\bin\Debug\netcoreapp3.1\Epam-2.1.runtimeconfig.dev.json
+D:\CaRoLiN-C#\Epam-2.1\bin\Debug\netcoreapp3.1\Epam-2.1.dll
+D:\CaRoLiN-C#\Epam-2.1\bin\Debug\netcoreapp3.1\Epam-2.1.pdb
+D:\CaRoLiN-C#\Epam-2.1\obj\Debug\netcoreapp3.1\Epam-2.1.csprojAssemblyReference.cache
+D:\CaRoLiN-C#\Epam-2.1\obj\Debug\netcoreapp3.1\Epam-2.1.AssemblyInfoInputs.cache
+D:\CaRoLiN-C#\Epam-2.1\obj\Debug\netcoreapp3.1\Epam-2.1.AssemblyInfo.cs
+D:\CaRoLiN-C#\Epam-2.1\obj\Debug\netcoreapp3.1\Epam-2.1.csproj.CoreCompileInputs.cache
+D:\CaRoLiN-C#\Epam-2.1\obj\Debug\netcoreapp3.1\Epam-2.1.dll
+D:\CaRoLiN-C#\Epam-2.1\obj\Debug\netcoreapp3.1\Epam-2.1.pdb
+D:\CaRoLiN-C#\Epam-2.1\obj\Debug\netcoreapp3.1\Epam-2.1.genruntimeconfig.cache
