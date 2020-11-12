@@ -1,0 +1,13 @@
+D:\CaRoLiN-C#\Epam-3.1\Epam-3.2\bin\Debug\netcoreapp3.1\Epam-3.3.exe
+D:\CaRoLiN-C#\Epam-3.1\Epam-3.2\bin\Debug\netcoreapp3.1\Epam-3.3.deps.json
+D:\CaRoLiN-C#\Epam-3.1\Epam-3.2\bin\Debug\netcoreapp3.1\Epam-3.3.runtimeconfig.json
+D:\CaRoLiN-C#\Epam-3.1\Epam-3.2\bin\Debug\netcoreapp3.1\Epam-3.3.runtimeconfig.dev.json
+D:\CaRoLiN-C#\Epam-3.1\Epam-3.2\bin\Debug\netcoreapp3.1\Epam-3.3.dll
+D:\CaRoLiN-C#\Epam-3.1\Epam-3.2\bin\Debug\netcoreapp3.1\Epam-3.3.pdb
+D:\CaRoLiN-C#\Epam-3.1\Epam-3.2\obj\Debug\netcoreapp3.1\Epam-3.3.csprojAssemblyReference.cache
+D:\CaRoLiN-C#\Epam-3.1\Epam-3.2\obj\Debug\netcoreapp3.1\Epam-3.3.AssemblyInfoInputs.cache
+D:\CaRoLiN-C#\Epam-3.1\Epam-3.2\obj\Debug\netcoreapp3.1\Epam-3.3.AssemblyInfo.cs
+D:\CaRoLiN-C#\Epam-3.1\Epam-3.2\obj\Debug\netcoreapp3.1\Epam-3.3.csproj.CoreCompileInputs.cache
+D:\CaRoLiN-C#\Epam-3.1\Epam-3.2\obj\Debug\netcoreapp3.1\Epam-3.3.dll
+D:\CaRoLiN-C#\Epam-3.1\Epam-3.2\obj\Debug\netcoreapp3.1\Epam-3.3.pdb
+D:\CaRoLiN-C#\Epam-3.1\Epam-3.2\obj\Debug\netcoreapp3.1\Epam-3.3.genruntimeconfig.cache
