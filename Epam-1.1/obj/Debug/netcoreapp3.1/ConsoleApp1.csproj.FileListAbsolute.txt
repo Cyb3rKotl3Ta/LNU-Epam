@@ -1,0 +1,13 @@
+D:\CaRoLiN-C#\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\CaRoLiN-C#\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\CaRoLiN-C#\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\CaRoLiN-C#\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\CaRoLiN-C#\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\CaRoLiN-C#\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\CaRoLiN-C#\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\CaRoLiN-C#\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\CaRoLiN-C#\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\CaRoLiN-C#\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\CaRoLiN-C#\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\CaRoLiN-C#\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\CaRoLiN-C#\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
