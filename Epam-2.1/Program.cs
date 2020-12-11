@@ -6,18 +6,11 @@ namespace Epam_2._1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter first Name: ");
-            string firstname = Console.ReadLine();
-            Console.WriteLine("Enter second Name: ");
-            string secondname = Console.ReadLine();
-
-            bool result = firstname.Equals(secondname, System.StringComparison.OrdinalIgnoreCase);
-            Console.WriteLine("Ordinal Comparison: {0} and {1} are {2}", firstname, secondname, result ? "equal. " : "not equal. ");
-
-
-
-
+            Console.WriteLine("Enter users name separated by commas: ");
+            var str1 = Console.ReadLine();
+            var str2 = str1.Replace(",", " ");
+            string end = str2;
+            Console.WriteLine(end.ToLower());
         }
-
     }
 }
