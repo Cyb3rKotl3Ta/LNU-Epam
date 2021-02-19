@@ -12,5 +12,16 @@ div{
     background-image: linear-gradient(to right, yellow, brown);
 }
 .transform{
-    transform:  skew(45deg, 15deg);
+    /*transform: translate(200px, 50px) scale(2, 0.5) rotate(15deg) skew(15deg, 5deg);
+    transform-origin: top center;*/
+    transition: width 3s;
+}
+
+.transform:hover{
+    background-color: purple;
+    width: 400px;
+}
+
+img{
+    filter: greyscale(100%);
 }
