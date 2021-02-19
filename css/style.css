@@ -12,5 +12,5 @@ div{
     background-image: linear-gradient(to right, yellow, brown);
 }
 .transform{
-    transform: translate();
+    transform: translate(200px, 300px);
 }
