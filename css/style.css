@@ -1,8 +1,16 @@
-@import url('https://fonts.googleapis.com/css2?family=Long+Cang&display=swap');
-
-p{
-    font-family: 'Long Cang', cursive;
+div{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    border: 10px solid gray;
+    margin: 20px;
 }
-header{
-    font-family: 'Long Cang', cursive;
+
+.box{
+    box-shadow: 0 0 0 5px purple, 0 0 0 10px red;
+    text-shadow: 5px 5px 5px royalblue;
+    background-image: linear-gradient(to right, yellow, brown);
+}
+.transform{
+    transform: translate();
 }
